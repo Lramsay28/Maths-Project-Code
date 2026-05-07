@@ -3,6 +3,6 @@ In my project I compared the peformance of logistic regression, random forest, k
 
 The 3 python files in my repository focus on:
 
-EDA without Truncation: The full exploration of the dataset.
-Truncation: Exploration once the data was cleaned .
+EDA without Truncation: The full exploration of the dataset.  
+Truncation: Exploration once the data was cleaned .  
 Algorithms: Models were fitted and analysed.
